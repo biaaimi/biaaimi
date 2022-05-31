@@ -5,7 +5,7 @@
 
 - 👩‍💻 Cursando segundo módulo: tecnico informática na ETEC Adolpho Berezin.
 - 🔭 Atualmente trabalho no desenvolvimento de um site de redirecionamento de produtos veganos para TCC.
-- 🌱 Estudando: TypeScript, JavaScript, HTML, CSS.
+- 🌱 Estudando: C#, TypeScript, JavaScript, HTML, CSS.
 - 😄 Pronomes: Ela/Dela.
 
 
