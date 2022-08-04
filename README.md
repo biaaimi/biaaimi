@@ -3,7 +3,7 @@
 
 ###
 
-- 👩‍💻 Cursando segundo módulo: tecnico informática na ETEC Adolpho Berezin.
+- 👩‍💻 Cursando terceiro módulo: tecnico informática na ETEC Adolpho Berezin.
 - 🔭 Atualmente trabalho no desenvolvimento de um site de redirecionamento de produtos veganos para TCC.
 - 🌱 Estudando: NodeJs, ReactJs, Python, TypeScript, JavaScript...
 - 😄 Pronomes: Ela/Dela.
