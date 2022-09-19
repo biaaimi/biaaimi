@@ -29,8 +29,11 @@
   <img align="center" alt="BIA-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="BIA-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="right" alt="BIA-pic" src="https://discord.com/channels/967538685753061376/967538686252175423/1021514595044700200/hi.gif" 
+      
        
   ##
+       
+       
  <div>
     <a href="https://instagram.com/bia.aimi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/beatriz-aimi-biagioni-b3445a250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
