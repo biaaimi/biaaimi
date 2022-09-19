@@ -2,10 +2,10 @@
 
 
 ###
-
-- 👩‍💻 Cursando terceiro módulo: tecnico informática na ETEC Adolpho Berezin.
-- 🔭 Atualmente trabalho no desenvolvimento de um site de redirecionamento de produtos veganos para TCC.
-- 🌱 Estudando: NodeJs, ReactJs, Python, TypeScript, JavaScript...
+- 🔭 @nobuzzbr
+- 👩‍💻 Cursando terceiro módulo: técnico informática na ETEC Adolpho Berezin  MONGAGUÁ-SP.
+- 🔭 Atualmente desenvolvo um site de redirecionamento de produtos veganos para TCC.
+- 🌱 Estudando: NodeJs, ReactJs, Swagger, TypeScript, JavaScript...
 - 😄 Pronomes: Ela/Dela.
 
 
