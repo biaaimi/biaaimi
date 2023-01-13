@@ -1,4 +1,4 @@
-## Olá mundo, eu sou a Beatriz Aimi!!!👾
+## Olá mundo, eu sou a Beatriz Aimi👾
 
 
 ###
