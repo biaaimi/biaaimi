@@ -2,9 +2,8 @@
 
 
 ###
-- 🖥️ @nobuzzbr
 - 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas- Universidade Santa Cecília
-- 🌱 Estudando: NodeJs, TypeScript, JavaScript...
+- 🌱 Estudando: NodeJs, C# , Java...
 - 😄 Pronomes: Ela/Dela.
 
 
