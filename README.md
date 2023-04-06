@@ -2,8 +2,9 @@
 
 
 ###
+- 
 - 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas- Universidade Santa Cecília
-- 🌱 Estudando: NodeJs, C# , Java...
+- 🌱 Estudando: C# , Java, NodeJs, Python, SQL ...
 - 😄 Pronomes: Ela/Dela.
 
 
