@@ -4,7 +4,7 @@
 ###
 - @EvalDigital
 - 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas - Universidade Santa Cecília
-- 🌱 Estudando: C# , Java, NodeJs, Python, SQL ...
+- 🌱 Estudando: C# , Java, Python, SQL ...
 - 😄 Pronomes: Ela/Dela.
 
 
